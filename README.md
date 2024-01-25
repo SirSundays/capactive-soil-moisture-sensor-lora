@@ -13,3 +13,8 @@ If you want to know more about the project you can read a full explanation on ha
 ## Files
 
 ## License
+The hardware and associated design files are released under the Creative Commons CC BY-SA 4.0 license. The code is released under the MIT license.
+
+Projects that inspired this project and which partly got worked into this project are:
+- ![b-parasite by rbaron](https://github.com/rbaron/b-parasite/tree/main)
+- ![Grove - Capacitive Moisture Sensor (Corrosion Resistant) by Seeed Studio](https://wiki.seeedstudio.com/Grove-Capacitive_Moisture_Sensor-Corrosion-Resistant/#resources)
